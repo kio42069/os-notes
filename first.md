@@ -6,4 +6,4 @@
 
 - here comes wait(): it introduces a wait period before which, for example the parent process will wait for the child process to finish first.
 
-- 
+- finally, the exec() system call completely shifts that thread's control to the program called, and hence wiping out the current thread.
