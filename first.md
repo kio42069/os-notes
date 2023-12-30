@@ -22,3 +22,5 @@ wc p3.c > newfile.txt
 Here, just before the exec is called, the shell closes the standard output, and opens the newfile.txt
 
 Now anything the wc function returns, it will flow into the newfile.txt instead of getting rendered on the screen since the standard output is closed now
+
+- Piping can be used to combine processes: let the output of one prgram flow into another's input
