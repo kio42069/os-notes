@@ -26,3 +26,6 @@ Now anything the wc function returns, it will flow into the newfile.txt instead 
 - Piping can be used to combine processes: let the output of one prgram flow into another's input
 
 - Superuser is a user who can control all processes, and do a lot of other powerful things which a regular user cannot do. A regular user can only stop processes which they have created
+
+
+https://www.youtube.com/watch?v=rE3j_RHkqJc
