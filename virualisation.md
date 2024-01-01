@@ -1,6 +1,6 @@
 # OS Notes
 
-### Interlude: Process API
+# Interlude: Process API
 
 - fork() creates a seprate thread for the child process, but there is no determined way to knowing which process will be executed first: the parent or the child
 
@@ -27,5 +27,6 @@ Now anything the wc function returns, it will flow into the newfile.txt instead 
 
 - Superuser is a user who can control all processes, and do a lot of other powerful things which a regular user cannot do. A regular user can only stop processes which they have created
 
+## Hopefully there wasn't anything else imp in the interlude chapter
 
-https://www.youtube.com/watch?v=rE3j_RHkqJc
+# Medchanism: Limited Direct Execution
