@@ -58,3 +58,5 @@ As the OS itself is also a program only, once it starts running a process, how w
 The answer is trust, it needs to simply believe that after the prgram it started running ends, it will give the access back to the OS. But what if due to either malicious or faulty code, the program gets stuck in a loop or never gives access back to the OS?
 
 That is why the oldest programmers kept a timer system, where the OS would regularly get control back to the system, and it can then kill any malicious of bad programs. 
+
+balls testers
